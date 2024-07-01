@@ -30,4 +30,7 @@ public class Wizard {
         this.biography = biography;
         this.muggle = muggle;
     }
+
+    public Wizard() {
+    }
 }
